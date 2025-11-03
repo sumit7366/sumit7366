@@ -1,129 +1,147 @@
-👨‍💻 Sumit Kumar
+# 👋 Hi, I'm **Sumit Kumar**
+
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Machine+Learning+Engineer;Python+and+AI+Explorer;Building+Smart+and+Scalable+Apps)
 
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0078ff&height=100&section=header)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit7366)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://patna-sumit-portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitranjanhisu@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-7366006363-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917366006363)
 
-
-
-
+---
 
 </div>
-🚀 Professional Summary
 
-Bridging innovation with intelligence through AI and full-stack technology.
+## 🧠 About Me
 
-Motivated MCA student and Full-Stack + Machine Learning Developer experienced in designing scalable, data-driven applications. Strong command over Python, React, Flask, and Node.js, with proven ability to build AI-integrated web platforms.
-Known for clean code, automation, and efficient system design improving process accuracy and speed.
+🎓 **MCA Student @ KIIT Bhubaneswar** | 💻 **Full-Stack + AI Developer**  
+I build **data-driven, scalable applications** combining web technologies and machine learning.  
+From crafting responsive frontends with **React** to deploying intelligent backends with **Flask** or **Node.js**,  
+I focus on performance, clean architecture, and user-centric design.
 
-Key Highlights
+> “Technology that learns and scales is technology that lasts.”
 
-🚀 Boosted automation efficiency by 30% using optimized Python scripts.
+---
 
-🤖 Improved ML model accuracy by 15% and reduced processing time by 20%.
+## 🚀 Core Tech Stack
 
-💡 Built and deployed multiple AI + Web integrated projects with modern tech stacks.
+<div align="center">
 
-🧠 Skilled at merging backend logic and AI workflows for seamless applications.
+![Tech Stack](https://skillicons.dev/icons?i=python,react,nodejs,flask,tensorflow,express,sqlite,git,github,vscode&perline=5)
 
-🎯 Core Competencies
+</div>
 
-Languages & Databases: Python · C · SQL · SQLite
-Frameworks & Libraries: React.js · Node.js · Express.js · Flask · TensorFlow · Scikit-learn · Pandas · NumPy · Matplotlib
-Tools & Platforms: Git · VS Code · Jupyter Notebook · API Integration
-Soft Skills: Problem Solving · Team Collaboration · Communication · Analytical Thinking · Adaptability
+---
 
-💼 Professional Experience
-Python Intern — OctaNet Services (Remote)
+## 🧩 Technical Competencies
 
-Jan 2024 – Mar 2024
+| Category | Tools & Frameworks |
+|:--|:--|
+| **Programming** | Python · C · SQL |
+| **Web Development** | React.js · Node.js · Express.js · Flask |
+| **Machine Learning / AI** | TensorFlow · Scikit-learn · Pandas · NumPy · Matplotlib |
+| **Database & ORM** | SQLite · Prisma |
+| **Tools & Platforms** | Git · VS Code · Jupyter Notebook |
+| **Soft Skills** | Problem-Solving · Team Collaboration · Analytical Thinking |
 
-Engineered modular Python automation tools improving efficiency by 30%.
+---
 
-Automated repetitive workflows saving 5+ hours weekly.
+## 💼 Professional Experience
 
-Collaborated on deployment/testing of scripts with clean coding standards.
+### 🐍 **Python Intern** — *OctaNet Services (Remote)*  
+*Jan 2024 – Mar 2024*  
+- Developed Python automation tools that boosted workflow efficiency by **30%**.  
+- Saved **5+ hours/week** through modular scripting and code optimization.  
+- Delivered reliable, maintainable automation scripts for internal use.
 
-Machine Learning Intern — CodeAlpha (Remote)
+### 🤖 **Machine Learning Intern** — *CodeAlpha (Remote)*  
+*Mar 2024 – Jun 2024*  
+- Built and tuned ML models increasing accuracy by **15%**.  
+- Deployed trained models into **Flask APIs**, reducing latency by **20%**.  
+- Handled data preprocessing, feature extraction, and documentation.
 
-Mar 2024 – Jun 2024
+---
 
-Built and validated ML models improving accuracy by 15%.
+## 🌟 Highlight Project — *AI Transcript Generator*
 
-Integrated trained models into Flask web apps, reducing latency by 20%.
+🧩 **Stack:** Next.js · Tailwind CSS · Prisma (SQLite) · API Routes  
+🎯 **Goal:** Transform audio into accurate text transcripts using speech-to-text AI.
 
-Conducted preprocessing, feature extraction, and documented reproducible experiments.
+**Features**
+- 🎧 Real-time audio-to-text conversion  
+- 🔗 Optimized Prisma ORM for lightweight data handling  
+- 🖥️ Elegant, responsive UI with Tailwind CSS  
+- ⚡ Fast exports and smooth API response management  
 
-🚀 Featured Project — AI Transcript Generator
+> Built for productivity — designed for precision.
 
-Next.js · Tailwind CSS · Prisma (SQLite) · API Routes
+---
 
-Overview:
-AI-powered transcription web app converting audio into structured text using speech-to-text APIs.
+## 🏆 Certifications & Achievements
 
-Key Features:
+- 🎓 **Machine Learning Internship — CodeAlpha (2024)**  
+- 💻 **Python Project Internship — OctaNet Services (2024)**  
+- 🌐 **Internship Certificate — Younity**  
+- 🧠 Recognized for AI + Web Integration excellence  
 
-🔊 Real-time audio-to-text conversion
+---
 
-🧩 Dynamic API routes and Prisma ORM for efficient DB management
+## 🎓 Education
 
-🎨 Responsive, modern UI with Tailwind CSS
+🎓 **Master of Computer Applications (MCA)** — *KIIT, Bhubaneswar*  
+🗓 *Expected Apr 2027*  
 
-⚡ Optimized export and response handling for seamless user experience
+🎓 **Bachelor of Computer Applications (BCA)** — *St. Xavier’s College, Patna*  
+🗓 *Completed May 2025*
 
-🛠 Technical Arsenal
+---
 
-Programming: Python · C · SQL
-Web Development: React.js · Node.js · Express.js · Flask
-Machine Learning: TensorFlow · Scikit-learn · Pandas · NumPy · Matplotlib
-Database & ORM: SQLite · Prisma
-Tools: Git · VS Code · Jupyter Notebook
-(Focused on Full-Stack + AI solutions with practical integration skills.)
+## 📈 Performance Snapshot
 
-🏆 Certifications & Achievements
+| Metric | Achievement |
+|---:|:---|
+| Automation Efficiency | +30% |
+| ML Model Accuracy | +15% |
+| Processing Speed | −20% latency |
+| Code Reliability | Improved via modularity |
+| UX/UI Quality | Elevated with Tailwind CSS |
 
-🧾 Internship Certificate — OctaNet Services (Python Project)
+---
 
-🤖 Internship Certificate — Code Alpha (Machine Learning)
+## 💡 Professional Highlights
 
-🌐 Internship Certificate — Younity
+- 🧩 **Full-Cycle Developer:** From idea → design → deploy → maintain  
+- ⚙️ **Performance-Focused:** Optimize for speed, clarity, and scalability  
+- 🧠 **Adaptive Learner:** Explore and adopt emerging technologies fast  
+- 🤝 **Team Player:** Communicate effectively in collaborative settings  
 
-🎓 Recognized for AI + Full-Stack project innovation and strong coding fundamentals.
+---
 
-🎓 Education
+## 📊 GitHub Analytics
 
-Master of Computer Applications (MCA) — KIIT, Bhubaneswar
-📅 Expected Apr 2027
+<div align="center">
 
-Bachelor of Computer Applications (BCA) — St. Xavier’s College, Patna
-📅 Completed May 2025
+![Stats](https://github-readme-stats.vercel.app/api?username=sumit7366&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit7366&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
-📊 Performance Metrics (Concise)
-Metric	Achievement
-Automation Efficiency	+30%
-ML Model Accuracy	+15%
-Processing Time Reduction	−20%
-Code Reliability	Enhanced with modular design
-User Experience	Optimized UI/UX with Tailwind CSS
-✨ Professional Traits (for recruiters)
+</div>
 
-Impact-oriented: Focus on measurable performance and quality.
+---
 
-Ownership mindset: Responsible for full-cycle development and maintenance.
+## 🤝 Let’s Connect
 
-Quick learner: Adapts rapidly to new tech and best practices.
+<div align="center">
 
-Collaborative: Works effectively with mentors and peers in team environments.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit7366)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://patna-sumit-portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitranjanhisu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumit7366)
 
-📞 Let’s Connect
+</div>
 
-Open to collaboration and roles in Full-Stack Development, AI, or ML engineering.
+---
 
-LinkedIn
- · Portfolio
- · Email
- · Tel: +91-7366006363
-
-🐍 GitHub Stats (Optional)
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit7366&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit7366&layout=compact&theme=tokyonight)
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0078ff,100:00d4ff&height=100&section=footer)
