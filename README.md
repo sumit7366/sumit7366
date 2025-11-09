@@ -7,7 +7,7 @@
 ![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0078ff&height=100&section=header)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit7366)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://patna-sumit-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sumitkportfoliodev.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitranjanhisu@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-7366006363-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917366006363)
 
@@ -127,6 +127,12 @@ I focus on performance, clean architecture, and user-centric design.
 ![Stats](https://github-readme-stats.vercel.app/api?username=sumit7366&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit7366&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
 </div>
 
 ---
@@ -136,7 +142,7 @@ I focus on performance, clean architecture, and user-centric design.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit7366)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://patna-sumit-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sumitkportfoliodev.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitranjanhisu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumit7366)
 
