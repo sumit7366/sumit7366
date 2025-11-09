@@ -129,10 +129,6 @@ I focus on performance, clean architecture, and user-centric design.
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
 </div>
 
 ---
