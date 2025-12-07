@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Machine+Learning+Engineer;Python+and+AI+Explorer;Building+Smart+and+Scalable+Apps)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Machine+Learning+Engineer;Python+%7C+AI+Explorer;Building+Smart+and+Scalable+Apps)
 
 ![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0078ff&height=100&section=header)
 
@@ -18,15 +18,18 @@
 ## 🧠 About Me
 
 🎓 **MCA Student @ KIIT Bhubaneswar** | 💻 **Full-Stack + AI Developer**  
-I build **data-driven, scalable applications** combining web technologies and machine learning.  
-From crafting responsive frontends with **React** to deploying intelligent backends with **Flask** or **Node.js**,  
-I focus on performance, clean architecture, and user-centric design.
+I build **data-driven, scalable applications** using modern web technology and applied machine learning.  
+From designing responsive UIs to deploying intelligent backends, I focus on:
+
+- clean architecture  
+- performance optimization  
+- meaningful user experiences
 
 > “Technology that learns and scales is technology that lasts.”
 
 ---
 
-## 🚀 Core Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
@@ -36,87 +39,87 @@ I focus on performance, clean architecture, and user-centric design.
 
 ---
 
-## 🧩 Technical Competencies
+## 🧩 Technical Expertise
 
-| Category | Tools & Frameworks |
-|:--|:--|
-| **Programming** | Python · C · SQL |
-| **Web Development** | React.js · Node.js · Express.js · Flask |
-| **Machine Learning / AI** | TensorFlow · Scikit-learn · Pandas · NumPy · Matplotlib |
-| **Database & ORM** | SQLite · Prisma |
-| **Tools & Platforms** | Git · VS Code · Jupyter Notebook |
-| **Soft Skills** | Problem-Solving · Team Collaboration · Analytical Thinking |
-
----
-
-## 💼 Professional Experience
-
-### 🐍 **Python Intern** — *OctaNet Services (Remote)*  
-*Jan 2024 – Mar 2024*  
-- Developed Python automation tools that boosted workflow efficiency by **30%**.  
-- Saved **5+ hours/week** through modular scripting and code optimization.  
-- Delivered reliable, maintainable automation scripts for internal use.
-
-### 🤖 **Machine Learning Intern** — *CodeAlpha (Remote)*  
-*Mar 2024 – Jun 2024*  
-- Built and tuned ML models increasing accuracy by **15%**.  
-- Deployed trained models into **Flask APIs**, reducing latency by **20%**.  
-- Handled data preprocessing, feature extraction, and documentation.
+| Category | Tools & Skills |
+|--------|-------------------------------|
+| **Languages** | Python · C · SQL |
+| **Frontend** | React.js · Tailwind CSS |
+| **Backend** | Node.js · Express.js · Flask |
+| **Machine Learning** | TensorFlow · Scikit-learn · Pandas · NumPy |
+| **Data & ORM** | SQLite · Prisma |
+| **Tools** | Git · GitHub · VS Code · Jupyter Notebook |
+| **Soft Skills** | Problem-Solving · Collaboration · Analytical Thinking |
 
 ---
 
-## 🌟 Highlight Project — *AI Transcript Generator*
+## 💼 Experience
 
-🧩 **Stack:** Next.js · Tailwind CSS · Prisma (SQLite) · API Routes  
-🎯 **Goal:** Transform audio into accurate text transcripts using speech-to-text AI.
+### 🐍 **Python Intern — OctaNet Services**  
+*Jan 2024 – Mar 2024 (Remote)*  
+- Automated workflows improving process efficiency by **30%**.  
+- Saved **5+ hours/week** through optimized scripting.  
+- Delivered reliable tools built with scalable Python modules.
 
-**Features**
-- 🎧 Real-time audio-to-text conversion  
-- 🔗 Optimized Prisma ORM for lightweight data handling  
-- 🖥️ Elegant, responsive UI with Tailwind CSS  
-- ⚡ Fast exports and smooth API response management  
-
-> Built for productivity — designed for precision.
+### 🤖 **Machine Learning Intern — CodeAlpha**  
+*Mar 2024 – Jun 2024 (Remote)*  
+- Trained and tuned ML models with a **15% accuracy boost**.  
+- Deployed ML models into **Flask REST APIs** with **20% lower latency**.  
+- Worked on data preprocessing and end-to-end model lifecycle.
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🌟 Featured Project — **AI Transcript Generator**
 
-- 🎓 **Machine Learning Internship — CodeAlpha (2024)**  
-- 💻 **Python Project Internship — OctaNet Services (2024)**  
-- 🌐 **Internship Certificate — Younity**  
-- 🧠 Recognized for AI + Web Integration excellence  
+🧩 **Stack:** Next.js · Tailwind CSS · Prisma · Speech-to-Text AI  
+🎯 Converts audio into accurate transcripts with high performance.
+
+**Key Features**
+- 🎧 Real-time audio → text conversion  
+- 💾 Efficient database handling with Prisma (SQLite)  
+- 🎨 Polished UI with Tailwind CSS  
+- ⚡ Fast text export & optimized API responses  
+
+---
+
+## 🏆 Achievements
+
+- Machine Learning Internship — **CodeAlpha (2024)**  
+- Python Automation Internship — **OctaNet (2024)**  
+- Internship Certificate — **Younity**  
+- Recognized for excellence in **AI × Web Integration**  
 
 ---
 
 ## 🎓 Education
 
-🎓 **Master of Computer Applications (MCA)** — *KIIT, Bhubaneswar*  
-🗓 *Expected Apr 2027*  
+🎓 **MCA — KIIT University, Bhubaneswar**  
+🗓 *Expected Apr 2027*
 
-🎓 **Bachelor of Computer Applications (BCA)** — *St. Xavier’s College, Patna*  
-🗓 *Completed May 2025*
+🎓 **BCA — St. Xavier’s College, Patna**  
+🗓 *Completed May 2025*  
 
 ---
 
 ## 📈 Performance Snapshot
 
-| Metric | Achievement |
-|---:|:---|
+| Metric | Result |
+|-------|--------|
 | Automation Efficiency | +30% |
 | ML Model Accuracy | +15% |
-| Processing Speed | −20% latency |
-| Code Reliability | Improved via modularity |
-| UX/UI Quality | Elevated with Tailwind CSS |
+| API Latency | −20% |
+| Code Modularity | Improved |
+| UI/UX Quality | Enhanced |
 
 ---
 
-## 💡 Professional Highlights
+## 💡 Professional Strengths
 
-- 🧩 **Full-Cycle Developer:** From idea → design → deploy → maintain  
-- ⚙️ **Performance-Focused:** Optimize for speed, clarity, and scalability  
-- 🧠 **Adaptive Learner:** Explore and adopt emerging technologies fast  
-- 🤝 **Team Player:** Communicate effectively in collaborative settings  
+- 🧩 End-to-End Developer: idea → build → deploy  
+- ⚙️ Performance-first mindset  
+- 🧠 Quick learner  
+- 🤝 Cooperative team player  
+- 🎯 Goal-oriented & detail-focused  
 
 ---
 
@@ -124,45 +127,38 @@ I focus on performance, clean architecture, and user-centric design.
 
 <div align="center">
 
-<!-- GitHub Stats -->
 ![Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=sumit7366&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
-<!-- Top Languages -->
 ![Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=sumit7366&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=✨+Building+AI+that+works+for+people+✨;🚀+Ship+fast%2C+iterate+faster;💡+Code+with+purpose" />
+
+</div>
 
 ---
 
-### ⭐ Like what you see? Star my repos!
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=%E2%9C%A8+Building+AI+that+works+for+people+%E2%9C%A8;%F0%9F%9A%80+Ship+fast%2C+iterate+faster;%F0%9F%92%A1+Code+with+purpose" alt="Quote" />
-
-<br><br>
-
-<!-- Snake eating contributions -->
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br><br>
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2"/>
 
-<br>
-
-<h2>Thanks for stopping by! Let's build something amazing together 🚀</h2>
-
-<br>
+<h2 align="center">Thanks for visiting! Let's build something amazing together 🚀</h2>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2"/>
 
-
+---
 
 ## 🤝 Let’s Connect
 
@@ -178,3 +174,4 @@ I focus on performance, clean architecture, and user-centric design.
 ---
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0078ff,100:00d4ff&height=100&section=footer)
+
