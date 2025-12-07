@@ -133,6 +133,35 @@ I focus on performance, clean architecture, and user-centric design.
 
 ---
 
+### ⭐ Like what you see? Star my repos!
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=%E2%9C%A8+Building+AI+that+works+for+people+%E2%9C%A8;%F0%9F%9A%80+Ship+fast%2C+iterate+faster;%F0%9F%92%A1+Code+with+purpose" alt="Quote" />
+
+<br><br>
+
+<!-- Snake eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2"/>
+
+<br>
+
+<h2>Thanks for stopping by! Let's build something amazing together 🚀</h2>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2"/>
+
+</div>
+
 ## 🤝 Let’s Connect
 
 <div align="center">
