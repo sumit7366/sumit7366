@@ -124,11 +124,14 @@ I focus on performance, clean architecture, and user-centric design.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sumit7366&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+<!-- GitHub Stats -->
+![Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=sumit7366&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit7366&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+<!-- Top Languages -->
+![Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=sumit7366&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
 </div>
+
 
 ---
 
