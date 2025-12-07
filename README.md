@@ -127,8 +127,6 @@ I focus on performance, clean architecture, and user-centric design.
 ![Stats](https://github-readme-stats.vercel.app/api?username=sumit7366&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit7366&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
-
-
 </div>
 
 ---
@@ -160,7 +158,7 @@ I focus on performance, clean architecture, and user-centric design.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2"/>
 
-</div>
+
 
 ## 🤝 Let’s Connect
 
