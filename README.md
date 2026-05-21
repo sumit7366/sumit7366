@@ -3,7 +3,25 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sumit7366&label=Profile+Views&color=302b63&style=flat-square)](https://github.com/sumit7366)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/sumit7366?label=Followers&style=flat-square&color=302b63)](https://github.com/sumit7366?tab=followers)&nbsp;
-[![Repos](https://img.shields.io/badge/dynamic/json?color=302b63&label=Public+Repos&query=public_repos&url=https://api.github.com/users/sumit7366&style=flat-square)](https://github.com/sumit7366?tab=repositories)
+[![Repos](https://img.shields.io/badge/dynamic/json?color=302b63&label=Public+Repos&query=public_repos&url=https://api.github.com/users/sumit7366&style=flat-square)](https://github.com/sumit7366?tab=repositories)&nbsp;
+[![Stars](https://img.shields.io/github/stars/sumit7366?label=Total+Stars&style=flat-square&color=302b63)](https://github.com/sumit7366)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit7366)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://sumitkportfoliodev.netlify.app/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sumitranjanhisu@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumit7366)
+
+<br/>
+
+![MCA Student](https://img.shields.io/badge/MCA-KIIT%20Bhubaneswar-7b2ff7?style=flat-square&logo=mortarboard&logoColor=white)&nbsp;
+![Open To Work](https://img.shields.io/badge/Open%20To-Internships%20%26%20Full--time-00b37e?style=flat-square&logo=handshake&logoColor=white)&nbsp;
+![Location](https://img.shields.io/badge/Based%20In-India%20🇮🇳-FF9933?style=flat-square)
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumit7366&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/sumit7366)
 
 </div>
 
